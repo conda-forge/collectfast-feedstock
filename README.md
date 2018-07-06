@@ -15,14 +15,15 @@ The fast collectstatic for Django projects with S3 as storage backend.
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/collectfast-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/collectfast-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/collectfast-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/collectfast-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/collectfast-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/collectfast-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/collectfast-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/collectfast-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/collectfast/badges/version.svg)](https://anaconda.org/conda-forge/collectfast)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/collectfast/badges/downloads.svg)](https://anaconda.org/conda-forge/collectfast)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-collectfast-green.svg)](https://anaconda.org/conda-forge/collectfast) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/collectfast.svg)](https://anaconda.org/conda-forge/collectfast) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/collectfast.svg)](https://anaconda.org/conda-forge/collectfast) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/collectfast.svg)](https://anaconda.org/conda-forge/collectfast) |
 
 Installing collectfast
 ======================
