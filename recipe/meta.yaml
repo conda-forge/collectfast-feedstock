@@ -1,6 +1,6 @@
 {% set name = "Collectfast" %}
-{% set version = "0.6.2" %}
-{% set sha256 = "fe6d811b25865bef5ae3b39c64b0d38776843f77a6d949ae449317afe84ed570" %}
+{% set version = "1.0.0" %}
+{% set sha256 = "f194cc3a7f7d502a487d80e473210173d6832fd4d363a83e6fe567344e077ecd" %}
 
 package:
   name: {{ name|lower }}
@@ -13,7 +13,7 @@ source:
 
 build:
   noarch: python
-  number: 1
+  number: 0
   script: python -m pip install --no-deps --ignore-installed .
 
 requirements:
