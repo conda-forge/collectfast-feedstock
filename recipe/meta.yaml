@@ -1,6 +1,6 @@
 {% set name = "Collectfast" %}
-{% set version = "1.1.0" %}
-{% set sha256 = "ee59c9a142af0603e1f888fbb7d0fcb8554fafbc88d0d96be55e764c88e666db" %}
+{% set version = "1.1.1" %}
+{% set sha256 = "ae9a1b4f37bde75ee7ef0f32a8332071661d52e0b42fd84a651c2b0827328d5a" %}
 
 package:
   name: {{ name|lower }}
